@@ -1,0 +1,39 @@
+body{
+	background-color: #CDFAE7;
+}
+
+.imageButtons{
+	margin: 1%;
+}
+
+#LoginPanel{
+	margin-top: 1%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Table1{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.adminHead{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 20pt;
+	font-family: sans-serif;
+	font-style: italic;
+}
+
+#TextBox2, #TextBox1{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
